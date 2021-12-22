@@ -1,0 +1,16 @@
+name: merge-upstream-forks
+
+on:
+  push:
+    branches:
+      - someone/master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: |
+        git fetch someone
+        git merge someone/master
+        git push origin master

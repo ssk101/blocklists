@@ -1,0 +1,13 @@
+0.0.0.0 cdn.brandmetrics.com
+0.0.0.0 jssdk.touchpoints.schibsted.media
+0.0.0.0 cogwheel.inventory.schibsted.io
+0.0.0.0 log.medietall.no
+0.0.0.0 content-studio-teasers-server.inventory.schibsted.io
+0.0.0.0 content-studio.inventory.schibsted.io
+0.0.0.0 cis.schibsted.com
+0.0.0.0 static.privacy.schibsted.com
+0.0.0.0 info.privacy.schibsted.com
+0.0.0.0 session-service.payment.schibsted.no
+0.0.0.0 comments-api.i.bt.no
+0.0.0.0 secure.adnxs.com
+0.0.0.0 collector.schibsted.io
